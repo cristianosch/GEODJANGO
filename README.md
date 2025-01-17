@@ -160,11 +160,6 @@ sudo apt install python3-pip python3-venv libpq-dev gdal-bin libgdal-dev postgre
 
 ---
 
-## 💃 License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
 
 ## ⭐ Give a Star!
 
